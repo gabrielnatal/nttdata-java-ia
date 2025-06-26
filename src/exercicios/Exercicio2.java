@@ -9,6 +9,7 @@ public class Exercicio2 {
         var lado = scanner.nextInt();
         var area = lado * lado;
         System.out.println("A área é: " + area);
+        //
     }
 }
 
