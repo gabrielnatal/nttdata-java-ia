@@ -26,13 +26,13 @@ Este projeto reforça conceitos fundamentais, como encapsulamento, controle de f
 🧩 Outros Projetos
 
 
-Relógios (Watches)
+-Relógios (Watches)
 Converte horários entre os formatos 24 horas (BRLClock) e 12 horas com AM/PM (USClock)
 
 Exercita herança, polimorfismo e padrões de projeto
 
 
-Formas Geométricas
+-Formas Geométricas
 Calcula áreas de diferentes formas geométricas
 
 Exercita interfaces, abstração e manipulação de entrada de dados
