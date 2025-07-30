@@ -29,7 +29,6 @@ Converte horários entre os formatos 24 horas (BRLClock) e 12 horas com AM/PM (U
 
 Exercita herança, polimorfismo e padrões de projeto
 
----
 
 Formas Geométricas
 Calcula áreas de diferentes formas geométricas
