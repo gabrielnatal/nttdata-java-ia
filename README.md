@@ -5,6 +5,8 @@ Meu objetivo é consolidar o conhecimento por meio da implementação de projeto
 ---
 
 🎯 Destaque: Projeto Pet Shop
+
+
 O projeto Pet Shop é o principal exercício prático deste conjunto, simulando uma máquina automatizada para dar banho em pets.
 
 ✅ Gerenciamento de recursos (água e shampoo)
